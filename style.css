@@ -1,0 +1,11 @@
+h1 {
+    font-size: 70px;
+    font-family: cursive;
+    color: brown;
+    text-align: center;
+    text-decoration: underline;
+    background-image: url(https://rms.condenast.it/rms/public/5d8/4fb/995/thumb_4234_1200_670_0_0_auto.jpg);
+    background-size: 50%;
+
+}
+body {background-color: cornflowerblue;}
