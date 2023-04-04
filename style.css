@@ -1,11 +1,29 @@
 h1 {
     font-size: 70px;
-    font-family: cursive;
-    color: brown;
+    color: white;
     text-align: center;
     text-decoration: underline;
-    background-image: url(https://rms.condenast.it/rms/public/5d8/4fb/995/thumb_4234_1200_670_0_0_auto.jpg);
-    background-size: 50%;
-
+    background-image: url(images/color.jpg);
 }
-body {background-color: cornflowerblue;}
+body{
+    background-image: url(images/desktop-wallpaper-usaf-logo-usaf-logo-for-your-mobile-tablet-explore-air-force-logo-air-force-football-air-force.jpg);
+    background-size: 33%; 
+ }
+ .one {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+ }
+ .two {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: cadetblue;
+}
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
