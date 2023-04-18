@@ -5,7 +5,7 @@
 }
 .head {
     font-size: 70px;
-    color: white;
+    color: goldenrod;
     text-align: center;
     text-decoration: underline;
 
@@ -51,6 +51,14 @@ body{
 .four {
     font-size: 30px;
     color: white;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    width: 33%;
+    justify-content: center;
+}
+.five {
+    font-size: 30px;
+    color: goldenrod;
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
     width: 33%;
